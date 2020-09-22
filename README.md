@@ -7,7 +7,6 @@ LINK - https://repl.it/@juanengml/api-intervensao-model-v1
 
 
 ### Instalação
-Este projeto requer **Python 2.7** e as seguintes bibliotecas Python instaladas:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
