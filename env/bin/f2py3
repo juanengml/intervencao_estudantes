@@ -1,4 +1,4 @@
-#!/home/juan/Modelos/intervencao_estudantes/env/bin/python3
+#!/home/juan-nascimento/.test/intervencao_estudantes/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
